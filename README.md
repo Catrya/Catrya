@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Catrya/Catrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 I'm learning to program.  
+- 🧡 I love open source and Bitcoin.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=catrya&show_icons=true&theme=dracula" alt="catrya" /> </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=catrya&theme=dracula" alt="catrya" /></p>
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Catrya&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+𝕏 https://twitter.com/Catry_a
+
+⚡ catrya@getalby.com
+
+- Nostr nip05: catrya@cubabitcoin.org
+- Nostr npub: `npub1catrya6c7rdnny0useday5ftxq9ycl5vt7c880zzmfwnpn58urgq6neuhz`
