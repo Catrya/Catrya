@@ -6,8 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=catrya&show_icons=true&theme=dracula" alt="catrya" /> </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=catrya&theme=dracula" alt="catrya" /></p>
-
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Catrya&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### You can find me at:
