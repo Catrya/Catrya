@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🤓 I'm learning to program.  
-- 🧡 I love open source and Bitcoin.
+- 💻 Pretending to be a dev until I make it, one PR at a time.  
+- 🧡 I love Open Source and Bitcoin.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=catrya&show_icons=true&theme=dracula" alt="catrya" /> </p>
