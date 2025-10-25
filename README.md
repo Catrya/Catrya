@@ -14,5 +14,5 @@
 - Nostr npub: `npub1catrya6c7rdnny0useday5ftxq9ycl5vt7c880zzmfwnpn58urgq6neuhz`
 
 ### If you want to buy me a coffee ☕, thanks! You can do so by sending ⚡ sats to:  
-⚡ catry_a@sats.mobi  
+⚡ catrya@lachispa.me
 ⚡ catrya@cubabitcoin.org  (Bolt 12)
