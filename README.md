@@ -4,8 +4,6 @@
 - 🧡 I love Open Source and Bitcoin.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=catrya&show_icons=true&theme=dracula" alt="catrya" /> </p>
-
 ### You can find me at:
 - 𝕏 https://twitter.com/Catry_a
 - Nostr nip05: catrya@cubabitcoin.org
