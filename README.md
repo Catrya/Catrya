@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧡 I love Open Source and Bitcoin.
+🧡 I love Open Source, Bitcoin and Nostr 💜
 
 
 ### You can find me at:
