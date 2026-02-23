@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 💻 Pretending to be a dev until I make it, one PR at a time.  
-- 🧡 I love Open Source and Bitcoin.
+🧡 I love Open Source and Bitcoin.
 
 
 ### You can find me at:
