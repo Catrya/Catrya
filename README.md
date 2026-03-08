@@ -2,6 +2,7 @@
 
 🧡 I love Open Source, Bitcoin and Nostr 💜
 
+<img align="right" src="https://stats-black.vercel.app/api?username=catrya&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula&border_radius=25" />
 
 ### You can find me at:
 - 𝕏 https://twitter.com/Catry_a
